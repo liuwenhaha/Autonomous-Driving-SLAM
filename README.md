@@ -1,6 +1,6 @@
 # Autonomous-Driving - SLAM
 
-  This project is a part of **SLAM** and **Path Planning** course given by the professor *Claus Brenner* from the *University of Leibniz*. The course is based on the data (LiDAR and Encoder) collected from a lego based robot with caterpillar tracks navigated through a controlled environment. 
+This course is based on the data (LiDAR and Encoder) collected from a robot with caterpillar tracks navigated through a controlled environment. 
   
 ## Overview
 
